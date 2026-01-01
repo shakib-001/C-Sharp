@@ -1,0 +1,8 @@
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\bin\Debug\LabAssignmentMid.exe.config
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\bin\Debug\LabAssignmentMid.exe
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\bin\Debug\LabAssignmentMid.pdb
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\obj\Debug\LabAssignmentMid.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\obj\Debug\LabAssignmentMid.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\obj\Debug\LabAssignmentMid.exe
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\obj\Debug\LabAssignmentMid.pdb
+C:\Users\L\Downloads\Documents\LabAssignment\LabAssignmentMid\LabAssignmentMid\obj\Debug\LabAssignmentMid.exe.config

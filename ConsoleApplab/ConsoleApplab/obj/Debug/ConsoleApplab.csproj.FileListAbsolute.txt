@@ -1,0 +1,7 @@
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\bin\Debug\ConsoleApplab.exe.config
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\bin\Debug\ConsoleApplab.exe
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\bin\Debug\ConsoleApplab.pdb
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\obj\Debug\ConsoleApplab.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\obj\Debug\ConsoleApplab.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\obj\Debug\ConsoleApplab.exe
+C:\Users\L\Downloads\Documents\LabAssignment\ConsoleApplab\ConsoleApplab\obj\Debug\ConsoleApplab.pdb
