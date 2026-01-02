@@ -1,0 +1,8 @@
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config

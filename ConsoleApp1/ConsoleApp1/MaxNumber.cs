@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class MaxNumber
     {
         static void Main(string[] args)
         {
@@ -15,16 +15,17 @@ namespace ConsoleApp1
             new int[] {70, 85, 90},
             new int[] {60, 75}
         };
-            int sum = 0, count = 0;
-            for (int i = 0; i < marks.Length; i++) {
-                for (int j = 0; j < marks[i].Length; j++) { 
-                    sum += marks[i][j];
-                    count++;
+
+            for (int i = 0; i < marks.Length; i++)
+            {
+                int max = marks[i][0];
+                for (int j = 1; j < marks[i].Length; j++)
+                {
+                    if (marks[i][j] > max)
+                        max = marks[i][j];
                 }
+                Console.WriteLine("Student " + (i + 1) + " Max Mark = " + max);
             }
-            double avg = (double)sum/count;
-            Console.WriteLine("Sum = " + sum);
-            Console.WriteLine("Average = " + avg);
         }
     }
 }
