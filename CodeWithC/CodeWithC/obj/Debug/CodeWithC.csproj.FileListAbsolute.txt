@@ -1,0 +1,8 @@
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\bin\Debug\CodeWithC.exe.config
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\bin\Debug\CodeWithC.exe
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\bin\Debug\CodeWithC.pdb
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\obj\Debug\CodeWithC.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\obj\Debug\CodeWithC.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\obj\Debug\CodeWithC.exe
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\obj\Debug\CodeWithC.pdb
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\CodeWithC\CodeWithC\obj\Debug\CodeWithC.exe.config
