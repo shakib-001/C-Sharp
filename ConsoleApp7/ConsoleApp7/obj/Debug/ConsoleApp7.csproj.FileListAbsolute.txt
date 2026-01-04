@@ -1,0 +1,8 @@
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\L\Downloads\Documents\c# lab 12-11-2025\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe.config
