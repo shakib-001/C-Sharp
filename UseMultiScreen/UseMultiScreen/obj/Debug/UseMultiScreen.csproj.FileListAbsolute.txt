@@ -1,0 +1,13 @@
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\bin\Debug\UseMultiScreen.exe.config
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\bin\Debug\UseMultiScreen.exe
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\bin\Debug\UseMultiScreen.pdb
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.Form1.resources
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.Properties.Resources.resources
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.csproj.GenerateResource.cache
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.exe
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.pdb
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.exe.config
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.Form2.resources
+C:\Users\L\Downloads\Documents\Calculator\UseMultiScreen\UseMultiScreen\obj\Debug\UseMultiScreen.Form2A.resources
