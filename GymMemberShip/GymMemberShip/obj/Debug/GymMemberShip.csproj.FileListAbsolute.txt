@@ -1,0 +1,11 @@
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\bin\Debug\GymMemberShip.exe.config
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\bin\Debug\GymMemberShip.exe
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\bin\Debug\GymMemberShip.pdb
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.Form1.resources
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.Properties.Resources.resources
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.csproj.GenerateResource.cache
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.exe
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.pdb
+C:\Users\L\Downloads\Documents\Calculator\GymMemberShip\GymMemberShip\obj\Debug\GymMemberShip.exe.config
